@@ -1,0 +1,1 @@
+{"acceptance": ["sh", "run-acceptance.sh"], "test": ["sh", "run-suite.sh"]}
